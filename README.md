@@ -17,7 +17,7 @@
 
 <h3>Some of my projects</h3>
 
-- [E-Commerce Project](<link-a-tu-proyecto>)
+- smart-qr.tech
 
 <h4>Project Overview</h4>
 

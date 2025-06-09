@@ -31,6 +31,22 @@
 
 ---
 
+- [SmartQR - Restaurant Management App](<link-al-deploy-aqui>)
+
+<h4>Project Overview</h4>
+
+<p>SmartQR is a full-stack web application for restaurant management and digital menus. Built with Next.js and React, it offers role-based access, real-time order tracking, secure payments with Stripe, and a chatbot powered by AI. As part of a collaborative Scrum-based team, I led the frontend design, UX/UI management, protected routes setup, Super Admin reports, and the management of orders and tables across different roles.</p>
+
+<h4>Technologies Used</h4>
+
+- **Frontend:** Next.js 15, React 19, TailwindCSS  
+- **Authentication:** Auth0 with role-based access control  
+- **Payments:** Stripe Integration  
+- **Real-time:** Socket.io for live updates  
+- **Other Tools:** MapBox, Recharts, Cloudinary, Zod, React Hook Form  
+
+---
+
 <h3>Professional Aspirations</h3>
 
 <p>I’m eager to join a tech-forward team where I can further hone my skills and contribute to collective success through logical reasoning and solid technical competencies.</p>

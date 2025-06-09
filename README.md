@@ -31,7 +31,7 @@
 
 ---
 
-- [SmartQR - Restaurant Management App](<link-al-deploy-aqui>)
+- [SmartQR - Restaurant Management App](<smart-qr.tech>)
 
 <h4>Project Overview</h4>
 
